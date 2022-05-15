@@ -2,8 +2,7 @@
 Unsupervised Machine Learning
 
 # NETFLIX MOVIES & TV SHOWS CLUSTERING
-
-      ![image](https://user-images.githubusercontent.com/91868265/168471534-7092072d-aa13-4153-8367-fbfd2a41d5a2.png)
+   ![image](https://user-images.githubusercontent.com/91868265/168471534-7092072d-aa13-4153-8367-fbfd2a41d5a2.png)
 
 
 # ABSTRACT
