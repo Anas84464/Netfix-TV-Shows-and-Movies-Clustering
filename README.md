@@ -3,7 +3,7 @@ Unsupervised Machine Learning
 
 # NETFLIX MOVIES & TV SHOWS CLUSTERING
 
-![image](https://user-images.githubusercontent.com/91868265/168471534-7092072d-aa13-4153-8367-fbfd2a41d5a2.png)
+      ![image](https://user-images.githubusercontent.com/91868265/168471534-7092072d-aa13-4153-8367-fbfd2a41d5a2.png)
 
 
 # ABSTRACT
@@ -48,19 +48,24 @@ interests and behavior.
 # CONCLUSION
 
 • There are about 70% movies and 30% TV shows on Netflix.
-• The United States has the highest number of content on Netflix by a huge margin
-• followed by India.
+
+• The United States has the highest number of content on Netflix by a huge margin followed by India.
+
 • Raul Campos and Jan Sulter collectively have directed the most content on Netflix.
+
 • Anupam Kher has acted in the highest number of films on Netflix.
+
 • Drama is the most popular genre followed by comedy.
-• More of the content is released in holiday season - October, November, December
-• and January.
-• The number of releases have significantly increased after 2015 and have dropped
-• in 2021 because of Covid 19.
-• NULL HYPOTHESIS -The number of TV shows on Netflix have tripled and number
-• of movies have reduced by 2000 between 2010 and 2018. (REJECTED)
+
+• More of the content is released in holiday season - October, November, December  and January.
+
+• The number of releases have significantly increased after 2015 and have dropped in 2021 because of Covid 19.
+
+• NULL HYPOTHESIS -The number of TV shows on Netflix have tripled and number of movies have reduced by 2000 between 2010 and 2018. (REJECTED)
+
 • By using Sillhouette's score and Elbow method , we generated optimal of 20 clusters
 for K Means and from Dendogram , 6 clusters were generated.
+
 • In both the cases, one cluster accounts more than 3000 points whereas in other
 clusters the points were unevenly distributed. 3.For Tfidf K Means is best for
 identification than Hierarchical as the evaluation metrics also indicates the same.
