@@ -1,11 +1,14 @@
- Netfix-Tv-Shows-and-Movies-Clustering
-Unsupervised Machine Learning
+ 
 
 # NETFLIX MOVIES & TV SHOWS CLUSTERING
-   ![image](https://user-images.githubusercontent.com/91868265/168471534-7092072d-aa13-4153-8367-fbfd2a41d5a2.png)
 
 
-# ABSTRACT
+**AlmaBetter Verfied Project**
+
+![image](https://user-images.githubusercontent.com/91868265/168471534-7092072d-aa13-4153-8367-fbfd2a41d5a2.png)
+
+
+# **Abstract**
 
 Netflix is a company that manages a large collection of TV shows and movies, streaming it anytime via online.
 This business is profitable because users make a monthly payment to access the platform. However, customers
@@ -13,7 +16,7 @@ can cancel their subscriptions at any time. Therefore, the company must keep the
 and not lose their interest. This is where recommendation systems start to play an important role, providing
 valuable suggestions to users is essential.
 
-# INTRODUCTION
+# **Introduction**
 
 Netflix’s recommendation system helps them increase their popularity among service providers as they help
 increase the number of items sold, offer a diverse selection of items, increase user satisfaction, as well as user
@@ -21,10 +24,9 @@ loyalty to the company, and they are very helpful in getting a better understand
 Then it’s easier to get the user to make better decisions from a wide variety of movie products. With over 139
 million paid subscribers (total viewer pool -300 million) across190 countries, 15,400 titles across its regional
 libraries and 112 Emmy Award Nominations in 2018 — Netflix is the world’s leading Internet television
-network and the most-valued largest streaming service in the world. The amazing digital success story of
-Netflix is incomplete without the mention of its
+network and the most-valued largest streaming service in the world. 
 
-# PROBLEM STATEMENT
+# 📋 **Problem Statement**
 
 This dataset consists of TV shows and movies available on Netflix as of 2019. The dataset is collected from
 Flexible which is a third-party Netflix search engine.
@@ -34,7 +36,7 @@ tripled since 2010. The streaming service’s number of movies has decreased by 
 Variables
 
 
-# OBJECTIVE
+# **Objective**
 
 Netflix Recommender recommends Netflix movies and TV shows based on a user's favorite movie or TV
 show. It uses a Natural Language Processing (NLP) model and a K-Means Clustering model to make these
@@ -44,7 +46,51 @@ recommender systems and create a model that can perform Clustering on comparable
 text-based attributes. Specifically, thinking about how Netflix create algorithms to tailor content based on user
 interests and behavior.
 
-# CONCLUSION
+## **Appraoch Pipeline**
+
+Exploratory Data Analysis (EDA): In this part we have done some EDA on the features to see the trend.
+
+Data Processing: In this part we went through each attributes and encoded the categorical features.
+
+Model Creation: Finally in this part we created the various models. These various models are being analysed and we tried to study various models so as to get the best performing model for our project.
+
+## 💾 **Project Files Description**
+
+This Project includes 1 colab notebook and 1 Pdf of presentation.
+
+### **Executable Files:**
+ - Includes Exploratory Data Analysis and all algorithms which are used in this project.
+
+ - Includes pdf of the presentation of the project.
+
+### **Output:**
+Google Colab -(https://github.com/anas084464/Netfix-Tv-Shows-and-Movies-Clustering/blob/main/Colab_of_Netflix_Capstone_projects.ipynb)- All the outputs are visible in the provided colab notebook.
+
+## 📋 **Execution Instruction**
+
+The order of execution of the colab notebook is as follows:
+
+1).ipynb
+
+First, click on the open in colab button present on the top center of the notebook.
+
+In this .ipynb file, we have -
+
+• EDA on Book Recommendation system.
+
+• Applying different ML models
+
+• Conclusion
+
+**2) Kaggle Dataset**
+
+Downlaod the dataset from kaggle through provided link.Then, connect to the runtime and execute the cell to mount the drive or upload the data file to the current runtime.
+
+**3) Cell Path**
+
+Finally, delete the path in the dataset loading cell and replace it with the path of your current data file. Run each cell to see the output below it.
+
+## **Conclusions**
 
 • There are about 70% movies and 30% TV shows on Netflix.
 
@@ -68,3 +114,13 @@ for K Means and from Dendogram , 6 clusters were generated.
 • In both the cases, one cluster accounts more than 3000 points whereas in other
 clusters the points were unevenly distributed. 3.For Tfidf K Means is best for
 identification than Hierarchical as the evaluation metrics also indicates the same.
+
+## 📜 **Credits**
+
+Anas Mustafa | Chetan Rajput | Sarthak Rastogi
+
+## 📚  **References**
+
+https://medium.com/analytics-vidhya/netflix-movies-and-tvshows-exploratory-data-analysis-eda-and-visualization-using-python-80753fcfcf7
+
+https://www.analyticsvidhya.com/blog/2021/06/tv-shows-analysis-netflix-prime-video-hulu-and-disney/
